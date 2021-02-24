@@ -27,5 +27,9 @@
   },
   "peerDependencies": {
     "gatsby": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sititou70/gatsby-plugin-content-hash.git"
   }
 }
